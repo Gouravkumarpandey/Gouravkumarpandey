@@ -4,7 +4,7 @@ Hi 👋 My name is Gourav
 Web Developer
 -------------
 
-*   🌍  I'm based in India
+*   🌍  Indian
 *   ✉️  You can contact me at [kumarpandeygourav@gmail.com](mailto:kumarpandeygourav@gmail.com)
 *   🧠  I'm learning Full-Stack
   ##  Skills 
