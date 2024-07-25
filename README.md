@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Reactjs Projects**
 
-- 🌱 I’m currently learning **Full-Stack**
+- 🌱 I’m learning **Full-Stack**
 
 - 📫 How to reach me **kumarpandeygourav@gmail.com**
 
