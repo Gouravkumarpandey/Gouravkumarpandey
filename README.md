@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravkumarpandey&label=Profile%20views&color=0e75b6&style=flat" alt="gouravkumarpandey" /> </p>
 
-- 🔭 Working on scalable, high-performance full-stack web apps.**
+- 🔭 Working on scalable, high-performance full-stack web apps.
 
--🌱 Learning advanced React, backend architecture & cloud basics.**
+- 🌱 Learning advanced React, backend architecture & cloud basics.
 
--👯 Open to open-source and real-world full-stack collaborations.**
+- 👯 Open to open-source and real-world full-stack collaborations.
 
--🤝 Seeking help with system design & system scalability concepts .**
+- 🤝 Seeking help with system design & system scalability concepts.
 
-- 💬 React | Full-Stack | Node.js | DB | Redis | APIs | Docker**
+- 💬 React | Full-Stack | Node.js | DB | Redis | APIs | Docker
 
 - 📫 How to reach me **kumarpandeygourav@gmail.com**
 
