@@ -36,10 +36,10 @@
   <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
 </p>
 <!-- Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gouravkumarpandey&label=Profile%20views&color=0e75b6&style=flat" alt="gouravkumarpandey" />
-</p>
+</p> -->
 <!-- Contact Section -->
 <h3 align="center">📫 Get In Touch</h3>
 <p align="center">
